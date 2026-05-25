@@ -8,7 +8,7 @@
 
 | Version | Link |
 |---------|------|
-| 📥 Latest CV (PDF) | [Konrad_Sagan_CV_DevOps.pdf](./Konrad_Sagan_CV_DevOps.pdf) |
+| 📥 Latest CV (PDF) | [Konrad_Sagan_CV_DevOps.pdf](https://raw.githubusercontent.com/JustKonrad/konrad-sagan-cv/main/Konrad_Sagan_CV_DevOps.pdf) |
 
 ---
 
