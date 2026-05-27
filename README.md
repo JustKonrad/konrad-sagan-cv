@@ -1,6 +1,6 @@
 # Konrad Sagan — CV / Resume
 
-> Junior DevOps & Cloud Engineer | Paris, France → Warsaw, Poland (Oct 2026)
+> Junior DevOps & Cloud Engineer | Paris, France → Warsaw, Poland (Sep/Oct 2026)
 
 ---
 
